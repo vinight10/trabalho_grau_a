@@ -461,7 +461,7 @@ a:focus {
 }
 
 .Sobre o Site_section .img-box {
-  position: relative;
+  position: center;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -473,7 +473,7 @@ a:focus {
 .Sobre o Site_section .img-box img {
   width: 100%;
   max-width: 445px;
-  position: relative;
+  position: center;
   z-index: 2;
 }
 
